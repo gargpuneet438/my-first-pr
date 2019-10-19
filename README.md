@@ -9,6 +9,7 @@
 2. Append your username to the Contributers section in this file in format:
 	`- [@username](https://github.com/username)`
 3. Make a PR via github
+4.Merge that using new pull request.
 
 ## Contributors:
 
